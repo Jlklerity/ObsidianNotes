@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c94313b01ee20b0e",
+        "id": "99ef086e6678fafd",
         "type": "tabs",
         "children": [
           {
-            "id": "e02842892e2a60ca",
+            "id": "a6a39f08441d172e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Computer Graphics/Asymmetric vs Symmetric Perspective Matrix.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Asymmetric vs Symmetric Perspective Matrix"
             }
           }
         ]
@@ -201,7 +205,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef5ad8dcb0a00737",
+  "active": "a6a39f08441d172e",
   "lastOpenFiles": [
     "Computer Graphics/3D Rendering Pipeline.md",
     "Computer Graphics/Clipping Process.md",
