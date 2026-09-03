@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "(Mixing C and C++ code & Read/Write binary files)",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.2,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.380208333333333,
+  "repelStrength": 6.25779625779626,
+  "linkStrength": 1,
+  "linkDistance": 160,
+  "scale": 0.7491938370275177,
+  "close": true
+}

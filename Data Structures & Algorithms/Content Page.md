@@ -1,0 +1,4 @@
+
+## Algorithms
+
+[[Insertion Sort Algorithm]]

@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "5f0b511dd410a4e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6aa73ee907e549da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c74dc22fc4662842",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "C++ High Level Programming/Content Page.canvas",
+                "viewState": {
+                  "x": -288.88188375155227,
+                  "y": -1781.241711377325,
+                  "zoom": -0.4040034036985596
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Content Page"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9c2dbf8e3cc9c03",
+    "type": "split",
+    "children": [
+      {
+        "id": "5116569b7f64e07c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07c4f8ef125d1144",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0173daf540e9f666",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0726d2fc76fd8998",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f1c3303ad97ca6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e0188478af7601c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6ad4f00845c65b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a48996e23178e5e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e9c12e0a736fac15",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "05a1fafa18a0d43f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "75b18a48585c8630",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false,
+      "notebook-navigator:Notebook Navigator": false
+    }
+  },
+  "active": "c74dc22fc4662842",
+  "lastOpenFiles": [
+    "C++ High Level Programming/Weak pointers.md",
+    "C++ High Level Programming/Content Page.canvas",
+    "C++ High Level Programming/Shared pointers.md",
+    "C++ High Level Programming/Unique Pointers.md",
+    "C++ High Level Programming/std bitset.md",
+    "C++ High Level Programming/Bit Shifting.md",
+    "Pasted image 20260802155024.png",
+    "C++ High Level Programming/Big vs Little Endian.md",
+    "Pasted image 20260802154951.png",
+    "Pasted image 20260802154947.png",
+    "C++ High Level Programming/std byte.md",
+    "C++ High Level Programming/Bit-fields.md",
+    "Pasted image 20260802154632.png",
+    "Pasted image 20260802154423.png",
+    "C++ High Level Programming/Variadic Recursion vs Folding Expression.md",
+    "Recursion vs Folding Expressions.md",
+    "C++ High Level Programming/Sizeof...() vs Sizeof().md",
+    "C++ High Level Programming/Fold Expression Variadic Template Function.md",
+    "C++ High Level Programming/cstdarg for Variadic functions.md",
+    "C++ High Level Programming/Creating our own std variant.md",
+    "C++ High Level Programming/Tag Unions with std variant(Type-Safe union).md",
+    "C++ High Level Programming/FORWARDING Reference vs RVALUE Reference.md",
+    "Pasted image 20260802132107.png",
+    "Pasted image 20260802132101.png",
+    "C++ High Level Programming/Synthesizing move assignment (when will it cause compile errors and when it will not examples).md",
+    "Pasted image 20260802131913.png",
+    "Pasted image 20260802131822.png",
+    "Pasted image 20260802131724.png",
+    "C++ High Level Programming/std move.md",
+    "C++ High Level Programming/Rule of 0 & 5 Chart.md",
+    "C++ High Level Programming/When does RVO & NRVO occur.md",
+    "C++ High Level Programming/Top-Level vs Low-Level const.md",
+    "C++ High Level Programming/Type_Traits using Type_Traits std library.md",
+    "Custom made Type_Traits.md",
+    "C++ High Level Programming/Data Padding.md",
+    "C++ High Level Programming/Iterating vectors with iterators.md",
+    "C++ High Level Programming"
+  ]
+}

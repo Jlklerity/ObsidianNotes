@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"742781b3e325a7bd","type":"text","text":"### (Mixing C and C++ code & Read/Write binary files)\n\n[[Name Mangling (C with C++ code)]]\n[[Static Initialization Issues (C with C++ code)]]\n[[Data Structure Incompatibility]]\n[[Reinterpret_cast]]\n[[Modern way to read or write raw bytes (bit_cast)]]\n[[filesystem_filepath]]\n\n![[Pasted image 20260730131426.png|393]]\n\n\n\n\n\n\n\n\n\n\n\n","x":-1020,"y":-2200,"width":560,"height":520},
+		{"id":"6cde1f9f2210c1e5","type":"text","text":"## When does RVO & NRVO occur?\n[[When does RVO & NRVO occur]]\n\n\n## Generic Factory\n","x":-1020,"y":-1660,"width":371,"height":380},
+		{"id":"c2095fcfa7a6c13e","type":"text","text":"### (RAII; Managing resources safely & Rvalue References\n[[Exception Safety]]\n[[Common Pitfalls in file management]]\n[[Stack vs Heap Memory Use Cases]]\n[[RAII (Solution to Resource Management problems)]]\n[[Function Try-block]]\n[[Partial Construction (due to exception throws in constructor)]]\n[[Noexcept]]\n\n### Rule of 0 & 5\n[[std move]]\n[[Synthesizing move assignment (when will it cause compile errors and when it will not examples)]]\n[[FORWARDING Reference vs RVALUE Reference]]\n","x":-440,"y":-2200,"width":440,"height":520},
+		{"id":"a182eb3f00b9baa0","type":"text","text":"# Other important concepts\n### Container Iterators\n[[Iterating vectors with iterators]]\n\n### std::accumulate()\n[[std accumulate()]]\n\n### deciphering template parameter types\n[[Deciphering template parameter types]]\n[[NTTPS(non-type template parameters)]]\n\n### Top-Level vs Low-Level const\n[[Top-Level vs Low-Level const]]","x":20,"y":-2200,"width":480,"height":520},
+		{"id":"7a05e032e13567a3","type":"text","text":"### Variadic Functions & Templates\n[[cstdarg for Variadic functions]]\n[[Variadic Recursion vs Folding Expression]]\n[[Fold Expression Variadic Template Function]]\n[[Sizeof...() vs Sizeof()]]\n\n![[Pasted image 20260802154423.png]]","x":-620,"y":-1660,"width":440,"height":380},
+		{"id":"ac89f0e304e04dcd","type":"text","text":"### Tag Unions with std::variant(Type-Safe union)\n[[Tag Unions with std variant(Type-Safe union)]]\n[[Creating our own std variant]]","x":-1020,"y":-1260,"width":371,"height":240},
+		{"id":"682b8eae66f3dbc8","type":"text","text":"### Generic/Variadic Lambda Functions & R/L/GL/X/Prvalues & decltype & if constexpr\n[[Implicit conversion of lambdas to function pointers]]\n\n\n","x":-620,"y":-1260,"width":440,"height":240},
+		{"id":"7cf4ee770dd185a9","type":"text","text":"### Structural Alignment\n\n#### Data Padding\n[[Data Padding]]\n\n## Bit-Twiddling\n![[Pasted image 20260802154632.png|192]]\n[[Bit-fields]]\n[[std byte]]\n[[Big vs Little Endian]]\n[[Bit Shifting]]\n[[std bitset]]","x":-160,"y":-1660,"width":300,"height":640},
+		{"id":"5bd948f7862de18f","type":"text","text":"### Type_Traits\n[[Type_Traits using Type_Traits std library]]\n[[Custom made Type_Traits]]","x":160,"y":-1660,"width":340,"height":290},
+		{"id":"4052d79259f1035a","type":"text","text":"### Smart Pointers\n[[Unique Pointers]]\n[[Shared pointers]]\n[[Weak pointers]]\n","x":160,"y":-1340,"width":340,"height":320}
+	],
+	"edges":[]
+}

@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "6ab7781404750df0",
+    "type": "split",
+    "children": [
+      {
+        "id": "99ef086e6678fafd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8efd5ee131fea2af",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "c4c30a22ae820b74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Graphics/Inverse 4x4 Matrix Formula.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inverse 4x4 Matrix Formula"
+            }
+          },
+          {
+            "id": "9da02de3d103e3fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Graphics/Inverse 3x3 Matrix Formula.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inverse 3x3 Matrix Formula"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ceb5abb53a9183e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9990b8126bd4aa4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef5ad8dcb0a00737",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "97025e5d52c70b7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bc2ff7335834c40f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "eb8cafa5db2e91fe",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1b9a84ce7e49fe73",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9e63576ad8aff2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfd2a38a5a124de0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7e7ff46da1570105",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "5ea421236f43f308",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "286aa203fbdc7070",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a4ba1c0416c27b2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "be012668a9a7daec",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-importer:Open Importer": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8efd5ee131fea2af",
+  "lastOpenFiles": [
+    "Operating Systems/Content Page.md",
+    "Operating Systems/Untitled.md",
+    "Operating Systems",
+    "New folder",
+    "Computer Graphics/2D Math & Affine Transformations through the graphics pipeline.md",
+    "Computer Graphics/Graphics Pipeline & Coordinate Spaces.md",
+    "Computer Graphics/3D Rendering Pipeline.md",
+    "Computer Graphics/Orthogonal vs Perspective Matrices.md",
+    "Computer Graphics/Barycentric Interpolation.md",
+    "Computer Graphics/Inverse 4x4 Matrix Formula.md",
+    "Computer Graphics/Inverse 3x3 Matrix Formula.md",
+    "Pasted image 20260804104604.png",
+    "Computer Graphics/Rodrigues Rotation.md",
+    "Computer Graphics/Frustum Culling.md",
+    "Computer Graphics/Lighting.md",
+    "Computer Graphics/Diffuse Lighting.md",
+    "Computer Graphics/Top-Left Tie Breaker Rule (When a triangle can either be rasterized upright or upside-down).md",
+    "photo_6293950122328527496_y 1.jpg",
+    "photo_6293950122328527496_y.jpg",
+    "Computer Graphics/Bounding-Box Traversal Method.md",
+    "Computer Graphics/Perspective Division.md",
+    "Computer Graphics/2D & 3D Cross-Product Method.md",
+    "Computer Graphics/Bresenham’s Algorithm.md",
+    "Computer Graphics/Rasterization & Traversal Algorithms.md",
+    "Computer Graphics/DDA (Digital Difference Analyzer) Algorithm.md",
+    "Computer Graphics/Naive Algorithm.md",
+    "Computer Graphics/Triangle Taverals.md",
+    "Computer Graphics/3D NDC-to-Viewport.md",
+    "Computer Graphics/View Frustum Culling in World or View Frame.md",
+    "C++ High Level Programming/Content Page.canvas",
+    "C++ High Level Programming/Modern way to read or write raw bytes (bit_cast).md",
+    "Pasted image 20260730124324.png",
+    "Pasted image 20260730124157.png",
+    "C++ High Level Programming/Reinterpret_cast.md",
+    "Pasted image 20260730123922.png",
+    "Pasted image 20260730123635.png",
+    "Pasted image 20260730123630.png",
+    "Pasted image 20260730123524.png",
+    "Pasted image 20260730123519.png",
+    "C++ High Level Programming",
+    "handoutorthoprojectionderivation 1.pdf",
+    "handoutorthoprojectionderivation.pdf",
+    "CSD2101 (Intro to Computer Graphics) _ Notion.html",
+    "Computer Graphics",
+    "Notion"
+  ]
+}
