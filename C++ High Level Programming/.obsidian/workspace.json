@@ -11,17 +11,14 @@
             "id": "c74dc22fc4662842",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "C++ High Level Programming/Content Page.canvas",
-                "viewState": {
-                  "x": -288.88188375155227,
-                  "y": -1781.241711377325,
-                  "zoom": -0.4040034036985596
-                }
+                "file": "C++ High Level Programming/Rule of 0 & 5 Chart.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Content Page"
+              "icon": "lucide-file",
+              "title": "Rule of 0 & 5 Chart"
             }
           }
         ]
@@ -58,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rule of 5",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +76,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,8 +188,11 @@
   },
   "active": "c74dc22fc4662842",
   "lastOpenFiles": [
-    "C++ High Level Programming/Weak pointers.md",
     "C++ High Level Programming/Content Page.canvas",
+    "C++ High Level Programming/FORWARDING Reference vs RVALUE Reference.md",
+    "C++ High Level Programming/Synthesizing move assignment (when will it cause compile errors and when it will not examples).md",
+    "C++ High Level Programming/std move.md",
+    "C++ High Level Programming/Weak pointers.md",
     "C++ High Level Programming/Shared pointers.md",
     "C++ High Level Programming/Unique Pointers.md",
     "C++ High Level Programming/std bitset.md",
@@ -211,14 +212,11 @@
     "C++ High Level Programming/cstdarg for Variadic functions.md",
     "C++ High Level Programming/Creating our own std variant.md",
     "C++ High Level Programming/Tag Unions with std variant(Type-Safe union).md",
-    "C++ High Level Programming/FORWARDING Reference vs RVALUE Reference.md",
     "Pasted image 20260802132107.png",
     "Pasted image 20260802132101.png",
-    "C++ High Level Programming/Synthesizing move assignment (when will it cause compile errors and when it will not examples).md",
     "Pasted image 20260802131913.png",
     "Pasted image 20260802131822.png",
     "Pasted image 20260802131724.png",
-    "C++ High Level Programming/std move.md",
     "C++ High Level Programming/Rule of 0 & 5 Chart.md",
     "C++ High Level Programming/When does RVO & NRVO occur.md",
     "C++ High Level Programming/Top-Level vs Low-Level const.md",

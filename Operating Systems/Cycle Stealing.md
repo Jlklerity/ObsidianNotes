@@ -1,0 +1,1 @@
+### When the DMA controller does bus mastering to transfer data directly between an I/O device and memory, it takes control of the memory bus from the CPU for those cycles — "stealing" cycles the CPU would otherwise use to access memory. It slows the CPU slightly but is far more efficient than programmed I/O.

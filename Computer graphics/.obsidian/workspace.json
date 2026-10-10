@@ -30,22 +30,9 @@
               "icon": "lucide-file",
               "title": "Inverse 4x4 Matrix Formula"
             }
-          },
-          {
-            "id": "9da02de3d103e3fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Graphics/Inverse 3x3 Matrix Formula.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inverse 3x3 Matrix Formula"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,23 +219,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8efd5ee131fea2af",
+  "active": "c4c30a22ae820b74",
   "lastOpenFiles": [
+    "Computer Graphics/Lighting.md",
+    "Computer Graphics/Phong Shading (Smooth Shading per fragment).md",
+    "Computer Graphics/Phong Shading shader code.md",
+    "Computer Graphics/Flat-Shading vs Smooth Lighting.md",
+    "Computer Graphics/Specular Lighting.md",
+    "Computer Graphics/Graphics Pipeline & Coordinate Spaces.md",
+    "Computer Graphics/Inverse 3x3 Matrix Formula.md",
+    "Computer Graphics/Inverse 4x4 Matrix Formula.md",
     "Operating Systems/Content Page.md",
     "Operating Systems/Untitled.md",
     "Operating Systems",
     "New folder",
     "Computer Graphics/2D Math & Affine Transformations through the graphics pipeline.md",
-    "Computer Graphics/Graphics Pipeline & Coordinate Spaces.md",
     "Computer Graphics/3D Rendering Pipeline.md",
     "Computer Graphics/Orthogonal vs Perspective Matrices.md",
     "Computer Graphics/Barycentric Interpolation.md",
-    "Computer Graphics/Inverse 4x4 Matrix Formula.md",
-    "Computer Graphics/Inverse 3x3 Matrix Formula.md",
     "Pasted image 20260804104604.png",
     "Computer Graphics/Rodrigues Rotation.md",
     "Computer Graphics/Frustum Culling.md",
-    "Computer Graphics/Lighting.md",
     "Computer Graphics/Diffuse Lighting.md",
     "Computer Graphics/Top-Left Tie Breaker Rule (When a triangle can either be rasterized upright or upside-down).md",
     "photo_6293950122328527496_y 1.jpg",
@@ -261,13 +252,9 @@
     "Computer Graphics/DDA (Digital Difference Analyzer) Algorithm.md",
     "Computer Graphics/Naive Algorithm.md",
     "Computer Graphics/Triangle Taverals.md",
-    "Computer Graphics/3D NDC-to-Viewport.md",
-    "Computer Graphics/View Frustum Culling in World or View Frame.md",
     "C++ High Level Programming/Content Page.canvas",
-    "C++ High Level Programming/Modern way to read or write raw bytes (bit_cast).md",
     "Pasted image 20260730124324.png",
     "Pasted image 20260730124157.png",
-    "C++ High Level Programming/Reinterpret_cast.md",
     "Pasted image 20260730123922.png",
     "Pasted image 20260730123635.png",
     "Pasted image 20260730123630.png",

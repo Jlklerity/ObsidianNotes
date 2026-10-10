@@ -9,7 +9,7 @@
 
 ## Requires a DMA Controller
 
-## Cycle Stealing
+## [[Cycle Stealing]]
 
 
 

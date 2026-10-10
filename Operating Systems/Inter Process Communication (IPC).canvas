@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"cd2f84b579b33065","type":"file","file":"File Descriptor Table.md","x":-203,"y":320,"width":400,"height":420},
+		{"id":"65142f22e9de41f0","type":"file","file":"File Table.md","x":280,"y":366,"width":400,"height":328},
+		{"id":"40632eacc6417a25","type":"file","file":"Pipes vs Forks.md","x":220,"y":800,"width":400,"height":400},
+		{"id":"5eee3a8eaa9bb477","type":"file","file":"Named vs Unnamed Pipes.md","x":220,"y":-80,"width":400,"height":240},
+		{"id":"2adee6ea2a16fa49","type":"file","file":"System V Shared Memory.md","x":-680,"y":294,"width":400,"height":400},
+		{"id":"61f1b3140bb9f88b","type":"file","file":"System V Message Queues.md","x":-403,"y":1040,"width":400,"height":400},
+		{"id":"41ae2f0ff1b0fa36","type":"file","file":"POSIX message queues.md","x":-880,"y":1040,"width":400,"height":400},
+		{"id":"a04e5c8e891e3f31","type":"file","file":"Message Queues.md","x":-640,"y":800,"width":400,"height":160},
+		{"id":"24d33adb5a7503da","type":"file","file":"Pipes.md","x":-383,"y":-115,"width":580,"height":357},
+		{"id":"4567260b8823b531","type":"file","file":"What is the use of Shared Memory and Message Queues.md","x":-1443,"y":-155,"width":1003,"height":437},
+		{"id":"61f0aa32900e06b3","x":-1680,"y":408,"width":960,"height":286,"type":"file","file":"System V vs POSIX.md"},
+		{"id":"5a7764fd0c19ac1e","x":-2184,"y":800,"width":1243,"height":666,"type":"file","file":"System V Shared Memory Lifecycle.md"},
+		{"id":"ea55f721b124893e","x":-2184,"y":1520,"width":1243,"height":608,"type":"file","file":"POSIX Shared Memory Lifecycle.md"},
+		{"id":"2642884eb87043ea","x":-583,"y":1622,"width":1303,"height":738,"type":"file","file":"IPC API Reference.md"}
+	],
+	"edges":[
+		{"id":"64c40292b369907b","fromNode":"cd2f84b579b33065","fromSide":"right","toNode":"65142f22e9de41f0","toSide":"left"},
+		{"id":"88d4276b0f4bb3fc","fromNode":"24d33adb5a7503da","fromSide":"right","toNode":"5eee3a8eaa9bb477","toSide":"left"},
+		{"id":"09fc8314318fc366","fromNode":"a04e5c8e891e3f31","fromSide":"bottom","toNode":"41ae2f0ff1b0fa36","toSide":"top"},
+		{"id":"dfcaa65751941fc3","fromNode":"a04e5c8e891e3f31","fromSide":"bottom","toNode":"61f1b3140bb9f88b","toSide":"top"}
+	]
+}

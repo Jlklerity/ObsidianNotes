@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"d6cfe4fe63df7c70","type":"file","file":"Types of Processes.md","x":-438,"y":480,"width":400,"height":400},
+		{"id":"b617a391ad91c124","type":"file","file":"Preemptive & Non-preemptive Scheduling.md","x":-438,"y":-100,"width":400,"height":479},
+		{"id":"b12a291ddf2909d3","type":"file","file":"First Come First Serve (FCFS).md","x":140,"y":600,"width":300,"height":340},
+		{"id":"678ac096978f3c5c","type":"file","file":"Shortest Job First (SJF).md","x":-438,"y":1120,"width":400,"height":400},
+		{"id":"a9ab256101861f82","type":"file","file":"Scheduling Effectiveness.md","x":140,"y":-100,"width":400,"height":179},
+		{"id":"2b32276f1b311f29","type":"file","file":"Comparisons between each Algorithm.md","x":140,"y":120,"width":400,"height":233},
+		{"id":"24fac08aaac12d68","x":340,"y":1160,"width":400,"height":400,"type":"file","file":"Priority Scheduling.md"},
+		{"id":"b95c3fab729fa8ea","type":"file","file":"Queue Data-Structure.md","x":640,"y":160,"width":400,"height":250},
+		{"id":"dba97dc0b8cb31fe","type":"file","file":"FCFS with I/FCFS with I O.md","x":500,"y":609,"width":400,"height":322}
+	],
+	"edges":[
+		{"id":"d0fe26fe515dee62","fromNode":"b617a391ad91c124","fromSide":"right","toNode":"b12a291ddf2909d3","toSide":"left","label":"Non-Preemptive Algorithm"},
+		{"id":"722a6e38ea653762","fromNode":"b12a291ddf2909d3","fromSide":"right","toNode":"b95c3fab729fa8ea","toSide":"left"},
+		{"id":"1c4d6fe96579786d","fromNode":"b12a291ddf2909d3","fromSide":"bottom","toNode":"678ac096978f3c5c","toSide":"top","label":"FCFS is the foundation for making these algorithms"}
+	]
+}

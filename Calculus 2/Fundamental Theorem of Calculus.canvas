@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"grp0000000000003","type":"group","x":440,"y":350,"width":1240,"height":1500,"color":"4","label":"3 · Antiderivatives & Indefinite Integrals"},
+		{"id":"grp0000000000001","type":"group","x":-1600,"y":-780,"width":1920,"height":940,"color":"5","label":"1 · The Area Under Graph Problem"},
+		{"id":"grp0000000000004","type":"group","x":-1280,"y":1180,"width":1300,"height":1020,"color":"2","label":"4 · Evaluating Integrals"},
+		{"id":"grp0000000000002","type":"group","x":-1280,"y":280,"width":1300,"height":820,"color":"6","label":"2 · Integration × Differentiation (FTC)"},
+		{"id":"a1c0de0000000005","type":"file","file":"Evaluating Definite Integrals with FTC2.md","x":-480,"y":1240,"width":460,"height":420},
+		{"id":"8e071563e301fa3a","type":"file","file":"Antiderivative.md","x":480,"y":410,"width":400,"height":180},
+		{"id":"e0fadf4f83e9378f","type":"file","file":"The Inverse of Differentiation is Integration.md","x":-1240,"y":340,"width":460,"height":700},
+		{"id":"a1c0de0000000003","type":"file","file":"Fundamental Theorem of Calculus (Statement).md","x":-480,"y":410,"width":460,"height":560},
+		{"id":"a1c0de0000000006","type":"file","file":"Rules of Definite Integrals.md","x":-1240,"y":1240,"width":460,"height":760},
+		{"id":"a1c0de0000000007","type":"file","file":"Indefinite vs Definite Integral Output.md","x":-480,"y":1790,"width":460,"height":280},
+		{"id":"0f2f46c0575b5c15","type":"file","file":"Constructing Riemann Sums.md","x":-820,"y":-150,"width":460,"height":280},
+		{"id":"b68820e66ced1406","type":"file","file":"Meaning of the definite integral.md","x":-200,"y":-250,"width":440,"height":380},
+		{"id":"a1c0de0000000004","type":"file","file":"Table of Antiderivatives.md","x":1200,"y":370,"width":460,"height":900},
+		{"id":"971f0f939f3bc931","type":"file","file":"Constant C in Indefinite Integrals.md","x":480,"y":1400,"width":400,"height":440},
+		{"id":"b5cdbc2fd4865612","type":"file","file":"Antiderivative vs Indefinite Integral.md","x":480,"y":1110,"width":400,"height":260},
+		{"id":"d2557a4fd6934d89","type":"file","file":"Indefinite Integral.md","x":480,"y":660,"width":400,"height":380},
+		{"id":"a1c0de0000000002","type":"file","file":"Partitioning an Interval for Riemann Sums.md","x":-820,"y":-720,"width":460,"height":460},
+		{"id":"95b51e5631801539","type":"file","file":"Definite Integral of f from a to b.md","x":-200,"y":-640,"width":440,"height":300},
+		{"id":"a1c0de0000000001","type":"file","file":"Area Under a Speed-Time Graph.md","x":-1560,"y":-620,"width":420,"height":280}
+	],
+	"edges":[
+		{"id":"e01","fromNode":"a1c0de0000000001","fromSide":"right","toNode":"a1c0de0000000002","toSide":"left","label":"why rectangles?"},
+		{"id":"e02","fromNode":"a1c0de0000000002","fromSide":"bottom","toNode":"0f2f46c0575b5c15","toSide":"top"},
+		{"id":"e03","fromNode":"0f2f46c0575b5c15","fromSide":"right","toNode":"95b51e5631801539","toSide":"left","label":"n → ∞"},
+		{"id":"e04","fromNode":"95b51e5631801539","fromSide":"bottom","toNode":"b68820e66ced1406","toSide":"top"},
+		{"id":"e05","fromNode":"0f2f46c0575b5c15","fromSide":"bottom","toNode":"e0fadf4f83e9378f","toSide":"top"},
+		{"id":"e06","fromNode":"e0fadf4f83e9378f","fromSide":"right","toNode":"a1c0de0000000003","toSide":"left","label":"formalised"},
+		{"id":"e07","fromNode":"b68820e66ced1406","fromSide":"bottom","toNode":"a1c0de0000000003","toSide":"top"},
+		{"id":"e08","fromNode":"a1c0de0000000003","fromSide":"right","toNode":"8e071563e301fa3a","toSide":"left","label":"FTC 2 needs an antiderivative"},
+		{"id":"e09","fromNode":"8e071563e301fa3a","fromSide":"bottom","toNode":"d2557a4fd6934d89","toSide":"top"},
+		{"id":"e10","fromNode":"d2557a4fd6934d89","fromSide":"right","toNode":"a1c0de0000000004","toSide":"left","label":"standard forms"},
+		{"id":"e11","fromNode":"d2557a4fd6934d89","fromSide":"bottom","toNode":"b5cdbc2fd4865612","toSide":"top"},
+		{"id":"e12","fromNode":"b5cdbc2fd4865612","fromSide":"bottom","toNode":"971f0f939f3bc931","toSide":"top"},
+		{"id":"e13","fromNode":"a1c0de0000000003","fromSide":"bottom","toNode":"a1c0de0000000005","toSide":"top","label":"FTC 2 in practice"},
+		{"id":"e14","fromNode":"a1c0de0000000005","fromSide":"left","toNode":"a1c0de0000000006","toSide":"right","label":"algebraic rules"},
+		{"id":"e15","fromNode":"a1c0de0000000005","fromSide":"bottom","toNode":"a1c0de0000000007","toSide":"top","label":"common mistake"},
+		{"id":"e16","fromNode":"a1c0de0000000004","fromSide":"bottom","toNode":"a1c0de0000000005","toSide":"right","label":"look up F"}
+	]
+}
