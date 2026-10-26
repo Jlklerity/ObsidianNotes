@@ -37,4 +37,6 @@
 [[Insertion Sort Running Time]]
 
 ### Graphs 
+[[Types of Graphs]]
+[[Representing Graphs]]
 [[Elementary Graph Algorithms]]
