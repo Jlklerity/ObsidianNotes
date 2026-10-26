@@ -8,17 +8,25 @@
 		{"id":"61f1b3140bb9f88b","type":"file","file":"System V Message Queues.md","x":-403,"y":1040,"width":400,"height":400},
 		{"id":"41ae2f0ff1b0fa36","type":"file","file":"POSIX message queues.md","x":-880,"y":1040,"width":400,"height":400},
 		{"id":"a04e5c8e891e3f31","type":"file","file":"Message Queues.md","x":-640,"y":800,"width":400,"height":160},
-		{"id":"24d33adb5a7503da","type":"file","file":"Pipes.md","x":-383,"y":-115,"width":580,"height":357},
 		{"id":"4567260b8823b531","type":"file","file":"What is the use of Shared Memory and Message Queues.md","x":-1443,"y":-155,"width":1003,"height":437},
-		{"id":"61f0aa32900e06b3","x":-1680,"y":408,"width":960,"height":286,"type":"file","file":"System V vs POSIX.md"},
-		{"id":"5a7764fd0c19ac1e","x":-2184,"y":800,"width":1243,"height":666,"type":"file","file":"System V Shared Memory Lifecycle.md"},
-		{"id":"ea55f721b124893e","x":-2184,"y":1520,"width":1243,"height":608,"type":"file","file":"POSIX Shared Memory Lifecycle.md"},
-		{"id":"2642884eb87043ea","x":-583,"y":1622,"width":1303,"height":738,"type":"file","file":"IPC API Reference.md"}
+		{"id":"61f0aa32900e06b3","type":"file","file":"System V vs POSIX.md","x":-1680,"y":408,"width":960,"height":286},
+		{"id":"5a7764fd0c19ac1e","type":"file","file":"System V Shared Memory Lifecycle.md","x":-2184,"y":800,"width":1243,"height":666},
+		{"id":"ea55f721b124893e","type":"file","file":"POSIX Shared Memory Lifecycle.md","x":-2184,"y":1520,"width":1243,"height":608},
+		{"id":"2642884eb87043ea","type":"file","file":"IPC API Reference.md","x":-823,"y":1600,"width":1303,"height":738},
+		{"id":"a2d45025e86de2c0","type":"link","url":"https://www.youtube.com/watch?v=dJuYKfR8vec","x":680,"y":40,"width":440,"height":242},
+		{"id":"034a304c34af1953","type":"file","file":"Fork() System Call.md","x":760,"y":417,"width":720,"height":1103},
+		{"id":"ee0bee56e932a190","type":"file","file":"Execv() System Call.md","x":760,"y":1600,"width":720,"height":631},
+		{"id":"24d33adb5a7503da","type":"file","file":"Pipes.md","x":-403,"y":-138,"width":580,"height":357},
+		{"id":"b51468c562e8812f","type":"file","file":"pipe() System Call.md","x":1560,"y":417,"width":400,"height":400},
+		{"id":"6d5aaeb300d76c2f","type":"file","file":"Zombie.md","x":1560,"y":960,"width":400,"height":400},
+		{"id":"0db5c2261beca882","type":"file","file":"Wait() System Call.md","x":1560,"y":1440,"width":400,"height":400},
+		{"id":"9804797d211c0ecd","x":1560,"y":1916,"width":400,"height":400,"type":"file","file":"Using pipes to have a child and parent share data.md"}
 	],
 	"edges":[
 		{"id":"64c40292b369907b","fromNode":"cd2f84b579b33065","fromSide":"right","toNode":"65142f22e9de41f0","toSide":"left"},
 		{"id":"88d4276b0f4bb3fc","fromNode":"24d33adb5a7503da","fromSide":"right","toNode":"5eee3a8eaa9bb477","toSide":"left"},
 		{"id":"09fc8314318fc366","fromNode":"a04e5c8e891e3f31","fromSide":"bottom","toNode":"41ae2f0ff1b0fa36","toSide":"top"},
-		{"id":"dfcaa65751941fc3","fromNode":"a04e5c8e891e3f31","fromSide":"bottom","toNode":"61f1b3140bb9f88b","toSide":"top"}
+		{"id":"dfcaa65751941fc3","fromNode":"a04e5c8e891e3f31","fromSide":"bottom","toNode":"61f1b3140bb9f88b","toSide":"top"},
+		{"id":"5046ab5852cb5d7a","fromNode":"0db5c2261beca882","fromSide":"top","toNode":"6d5aaeb300d76c2f","toSide":"bottom"}
 	]
 }

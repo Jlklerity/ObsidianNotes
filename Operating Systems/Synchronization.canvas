@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"c3e8595338cc4379","type":"group","x":240,"y":480,"width":903,"height":929,"label":"Synchronization Problems"},
+		{"id":"0d36d857509f93b0","type":"group","x":-760,"y":480,"width":880,"height":740,"label":"Sychronization Tools"},
+		{"id":"eb0a6f4cf6fcbb37","type":"group","x":-520,"y":1320,"width":480,"height":520,"label":"Hardware Synchronization Solution"},
+		{"id":"595998d65244ad8f","type":"file","file":"Dining Philosopher.md","x":260,"y":520,"width":400,"height":400},
+		{"id":"2915af1eeddfedbd","type":"file","file":"Sleeping Barber Implementation.md","x":260,"y":960,"width":400,"height":400},
+		{"id":"5f2c7aeadc133949","type":"file","file":"Mutexes(Mutual Exclusion lock).md","x":-720,"y":540,"width":400,"height":340},
+		{"id":"384e6cccc77a47cd","type":"file","file":"Semaphores.md","x":-720,"y":940,"width":400,"height":260},
+		{"id":"4f969129ada00e0e","type":"file","file":"Atomics.md","x":-240,"y":540,"width":297,"height":340},
+		{"id":"b7fa9a2a23edd240","type":"file","file":"Producer-Consumer.md","x":720,"y":960,"width":400,"height":400},
+		{"id":"044ff9c774fd5b29","type":"file","file":"Deadlock and Starvation.md","x":266,"y":1489,"width":400,"height":400},
+		{"id":"eefafb614985766f","type":"file","file":"Readers-Writers.md","x":720,"y":520,"width":400,"height":400},
+		{"id":"86d51d697dfb777d","type":"file","file":"Condition Variable.md","x":-240,"y":940,"width":297,"height":260},
+		{"id":"88b14d967a82da3b","type":"file","file":"Deadlock and Livelock.md","x":720,"y":1489,"width":400,"height":400},
+		{"id":"3189dc2062c7cb0c","type":"file","file":"Test-and-Set Lock (TSL).md","x":-480,"y":1360,"width":400,"height":400}
+	],
+	"edges":[]
+}
