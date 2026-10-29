@@ -39,4 +39,5 @@
 ### Graphs 
 [[Types of Graphs]]
 [[Representing Graphs]]
-[[Elementary Graph Algorithms]]
+[[Graph Traversal Algorithms]]
+[[Disjoint Sets and Minimum Spending Trees]]

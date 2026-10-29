@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e299645a4102cd78",
+        "id": "098ec18c6610e08e",
         "type": "tabs",
         "children": [
           {
-            "id": "b070a54749790230",
+            "id": "6d90308e64bf94cd",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Synchronization.canvas",
                 "viewState": {
-                  "x": 331.00616191378737,
-                  "y": 1227.2547384929624,
-                  "zoom": -0.9579924734784244
+                  "x": 226.8485757459674,
+                  "y": 1214.4103093866715,
+                  "zoom": -0.76506940589483
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "signal",
+                "query": "memory management",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,8 +82,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,14 +191,33 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "b070a54749790230",
+  "active": "6d90308e64bf94cd",
   "lastOpenFiles": [
+    "Memory Management.canvas",
+    "busy waiting.md",
+    "Fragmentation.md",
+    "Contiguous Memory Allocation.md",
+    "Variable Partition.md",
+    "MMU.md",
+    "Physical vs Logical Address Spaces.md",
+    "Shared Libraries.md",
+    "Dynamic-Linking.md",
+    "Dynamic-Loading.md",
+    "Execution-Time Binding.md",
+    "Load-Time Binding.md",
+    "Compile/Compile(Link)-Time Binding.md",
+    "Compile",
+    "Physical Memory Model.md",
+    "Address Binding.md",
+    "Memory Management.canvas.md",
     "Dining Philosopher.md",
+    "Synchronization.canvas",
+    "Producer-Consumer.md",
+    "Bounded-Buffer.md",
+    "Sleeping Barber Implementation.md",
     "Pasted image 20261026223009.png",
     "Pasted image 20261026222757.png",
-    "Synchronization.canvas",
     "Readers-Writers.md",
-    "Producer-Consumer.md",
     "Pasted image 20261026221930.png",
     "Pasted image 20261026221857.png",
     "Pasted image 20261026221855.png",
@@ -210,27 +228,10 @@
     "Pasted image 20261026220027.png",
     "Condition Variable.md",
     "relinquish.md",
-    "Sleeping Barber Implementation.md",
     "_Notes Gap Report (Lectures 1-4).md",
     "Interrupt.md",
     "Semaphores.md",
-    "Semaphore Implementation.md",
-    "race conditions.md",
-    "Atomics.md",
-    "critical section.md",
-    "Mutexes(Mutual Exclusion lock).md",
-    "Bounded-Buffer.md",
-    "Shared Memory Segments.md",
-    "Test-and-Set Lock (TSL).md",
-    "bounded-waiting.md",
-    "shared lock variable.md",
-    "busy waiting.md",
-    "Deadlock and Livelock.md",
-    "Deadlock and Starvation.md",
     "Scheduling.canvas",
-    "pthread mutex.md",
-    "Synchronization Problems.md",
-    "System V vs POSIX.md",
     "Basics of OS & Hardware Support.canvas",
     "OS Services & Processes.canvas",
     "Inter Process Communication (IPC).canvas",

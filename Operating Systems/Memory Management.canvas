@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"87faf3f1b1ca022e","type":"file","file":"Address Binding.md","x":-560,"y":-260,"width":400,"height":400},
+		{"id":"c5c84cb61ac7546c","type":"file","file":"Physical Memory Model.md","x":-80,"y":-260,"width":400,"height":400},
+		{"id":"13d44e6300cc80a4","type":"file","file":"Physical vs Logical Address Spaces.md","x":400,"y":-260,"width":400,"height":400},
+		{"id":"5b918d9b118adc07","type":"file","file":"Compile/Compile(Link)-Time Binding.md","x":-560,"y":360,"width":400,"height":400},
+		{"id":"b0180a1d1d6496ca","type":"file","file":"Load-Time Binding.md","x":-80,"y":360,"width":400,"height":400},
+		{"id":"2a228056dead36c0","type":"file","file":"Execution-Time Binding.md","x":400,"y":360,"width":400,"height":400},
+		{"id":"2f34fd24753172b2","type":"file","file":"Dynamic-Loading.md","x":840,"y":360,"width":400,"height":400},
+		{"id":"37ac57d358752562","type":"file","file":"Dynamic-Linking.md","x":1280,"y":360,"width":400,"height":400},
+		{"id":"8b8d406678b5d4f7","type":"file","file":"Shared Libraries.md","x":880,"y":-260,"width":400,"height":400},
+		{"id":"d91623d573662bca","type":"file","file":"MMU.md","x":1360,"y":-260,"width":400,"height":400},
+		{"id":"208af384ea2f1851","x":-483,"y":939,"width":400,"height":400,"type":"file","file":"Variable Partition.md"},
+		{"id":"6b5be7074123160d","x":0,"y":920,"width":400,"height":400,"type":"file","file":"Contiguous Memory Allocation.md"},
+		{"id":"eed252c89947f00d","x":480,"y":920,"width":400,"height":400,"type":"file","file":"Fragmentation.md"}
+	],
+	"edges":[]
+}
